@@ -1,28 +1,18 @@
 ## Hi there 👋
 # I am Tarique Abid.
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tarique-abid-699a8223a/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/tarik.abid.5074/)  &nbsp;<a href="mailto:tariqueabid01@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+
 ```javascript
 const Tarique_Abid = {
 interestAbout: ["Problem Solving", "Data Structure", "Algorithm", "Web Dev", "DevOps", "Teaching", "Chess", "Novel"],
 code: ["Java", "C++","Php", "C"],
 technologies: {
        web
-         backEnd: {
-            js and ts: ["node", "express"],
-            python: ["django"],
-            php: ["laravel"]
-        },
-        frontEnd: {
-            js: ["React"],
-            css: ["materialize", "semantic", "bootstrap"]
-        },
-        devOps: ["CI-CD", "Docker", "Kubernates", "Github Actions"],
-        hosting: ["Azure", "Heroku", "Netlify", "Hostinger", "Digital Ocean", "AWS"],
-        database: ["mongo", "MySql", "sqlite", "firebase", "graphql"],
-        testing: ["tdd", "jest", "supertest", "mocha", "django", "junit", "cypress"],
-        Ai: ["Image Processing", "Yolo", "Open Cv"],
-        mobileApp: ["Android App"],
-        game: ["Unity"],
-        misc: ["Firestore", "Web socket",]
+         backEnd: ["PHP", "CPP"],
+        frontEnd: ["HTML", "CSS"],
+        database: ["MySql"],
+        Ai: ["Image Processing", "CNN"],
     },
 <br>}```
 
