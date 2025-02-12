@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I am Tarique Abid.
-<br> const Tarique_Abid{
+<br> const Tarique_Abid{<br>
   interestAbout: ["Problem Solving", "Data Structure", "Algorithm", "Web Dev", "DevOps", "Teaching", "Chess", "Novel"],
   code: ["Java", "C++","Php", "C"],
 }<br>
