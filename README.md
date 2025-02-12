@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I am Tarique Abid.
-```cpp
-const Tarique_Abid{
+```javascript
+const Tarique_Abid = {
 interestAbout: ["Problem Solving", "Data Structure", "Algorithm", "Web Dev", "DevOps", "Teaching", "Chess", "Novel"],
 code: ["Java", "C++","Php", "C"],
 technologies: {
