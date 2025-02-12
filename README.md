@@ -2,10 +2,11 @@
 # I am Tarique Abid.
 <br> const Tarique_Abid{<br>
 
-<br>```interestAbout: ["Problem Solving", "Data Structure", "Algorithm", "Web Dev", "DevOps", "Teaching", "Chess", "Novel"],```<br>
-<br>```code: ["Java", "C++","Php", "C"],```<br>
-<br>```technologies: {```<br>
-<br>`````````       web```<br>
+```cpp
+interestAbout: ["Problem Solving", "Data Structure", "Algorithm", "Web Dev", "DevOps", "Teaching", "Chess", "Novel"],
+code: ["Java", "C++","Php", "C"],
+technologies: {
+       web
          backEnd: {
             js and ts: ["node", "express"],
             python: ["django"],
@@ -24,7 +25,7 @@
         game: ["Unity"],
         misc: ["Firestore", "Web socket",]
     },
-<br>}<br>
+<br>}```
 
 <!--
 **Tarique-Abid/Tarique-Abid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
