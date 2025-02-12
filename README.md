@@ -2,8 +2,8 @@
 # I am Tarique Abid.
 <br> const Tarique_Abid{<br>
 <br>  interestAbout: ["Problem Solving", "Data Structure", "Algorithm", "Web Dev", "DevOps", "Teaching", "Chess", "Novel"],<br>
-  code: ["Java", "C++","Php", "C"],
-}<br>
+<br>  code: ["Java", "C++","Php", "C"],<br>
+<br>}<br>
 
 <!--
 **Tarique-Abid/Tarique-Abid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
