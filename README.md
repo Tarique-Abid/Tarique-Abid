@@ -2,8 +2,28 @@
 # I am Tarique Abid.
 <br> const Tarique_Abid{<br>
 
-<br>``` interestAbout: ["Problem Solving", "Data Structure", "Algorithm", "Web Dev", "DevOps", "Teaching", "Chess", "Novel"],```<br>
-<br>  code: ["Java", "C++","Php", "C"],<br>
+<br>```interestAbout: ["Problem Solving", "Data Structure", "Algorithm", "Web Dev", "DevOps", "Teaching", "Chess", "Novel"],```<br>
+<br>```code: ["Java", "C++","Php", "C"],```<br>
+<br>```technologies: {```<br>
+<br>`````````       web```<br>
+         backEnd: {
+            js and ts: ["node", "express"],
+            python: ["django"],
+            php: ["laravel"]
+        },
+        frontEnd: {
+            js: ["React"],
+            css: ["materialize", "semantic", "bootstrap"]
+        },
+        devOps: ["CI-CD", "Docker", "Kubernates", "Github Actions"],
+        hosting: ["Azure", "Heroku", "Netlify", "Hostinger", "Digital Ocean", "AWS"],
+        database: ["mongo", "MySql", "sqlite", "firebase", "graphql"],
+        testing: ["tdd", "jest", "supertest", "mocha", "django", "junit", "cypress"],
+        Ai: ["Image Processing", "Yolo", "Open Cv"],
+        mobileApp: ["Android App"],
+        game: ["Unity"],
+        misc: ["Firestore", "Web socket",]
+    },
 <br>}<br>
 
 <!--
