@@ -9,10 +9,11 @@ interestAbout: ["Problem Solving", "Data Structure", "Algorithm", "Web Dev", "De
 code: ["Java", "C++","Php", "C"],
 technologies: {
        web
-         backEnd: ["PHP", "CPP"],
-        frontEnd: ["HTML", "CSS"],
-        database: ["MySql"],
+         backEnd: ["PHP", "CPP","NodeJS","ExpressJS","Typescript"],
+        frontEnd: ["HTML", "CSS","JavaScript","Typescript"],
+        database: ["MySql","PostgreSQL"],
         Ai: ["Image Processing", "CNN"],
+        FrameWork: ["ExpressJs","React"]
     },
 quote: ["Focus more to learn more."],
 <br>}```
